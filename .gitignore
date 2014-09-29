@@ -1,0 +1,5 @@
+.buildpath
+.project
+.settings/
+phpunit-junit.xml
+readme.md
